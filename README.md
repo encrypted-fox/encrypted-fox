@@ -4,13 +4,46 @@ Hello, my name is Yaroslav and I am web-developer. Have a closer look of who am 
 
 [![Work Status](https://img.shields.io/badge/status-accepting%20job%20offers-brightgreen?style=for-the-badge)](https://github.com/encrypted-fox)
 
-[![Encrypted-Fox github stats](https://github-readme-stats.vercel.app/api?username=encrypted-fox&theme=synthwave)](https://github.com/encrypted-fox)
+[![Encrypted-Fox github stats](https://github-readme-stats.vercel.app/api?username=encrypted-fox&theme=dark)](https://github.com/encrypted-fox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encrypted-fox&theme=synthwave)](https://github.com/encrypted-fox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encrypted-fox&theme=dark)](https://github.com/encrypted-fox)
+
+I know English, German and Russian. I am final year student, reading technical literature. Currently ready to work remotely.
+
+I can successfully work in multitask regime with big amount of data, can find quality solution for difficult tasks.
+
+I use specialized tools to organize my development process and task tracking, write quality documentation and perform work in time.
+
+Also can make prototypes, 'am good at HTML, CSS and JavaScript, can build android apps and dynamic adaptive cross-browser web-apps, using Angular, React, Vue (React is preffered) as frontend and Python, PHP or Node as backend.
+
+I am familiar with wordpress, can perform SEO- and Usability-audit and can make any site SEO-friendly.
+
+Feel free to ask for further information, will be glad to answer!
+
+
+
+
+## :scroll: Education
+
+**Moscow Polytechnic University:** Faculty of Information Technologies – Web-Technologies 
+
+*Bachelor of Computer Science – 2017-2021*
+
+
+## :receipt: Courses & Certification
+
+[FreeCodeCamp – APIs And Microservices – 2020](https://www.freecodecamp.org/certification/yaroslavsouchkov/apis-and-microservices)
+
+[FreeCodeCamp – Data Visualization – 2020](https://www.freecodecamp.org/certification/yaroslavsouchkov/data-visualization)
+
+[FreeCodeCamp – Front End Libraries – 2020](https://www.freecodecamp.org/certification/yaroslavsouchkov/front-end-libraries)
+
+[FreeCodeCamp – JavaScript Algorithms And Data Structures – 2020](https://www.freecodecamp.org/certification/yaroslavsouchkov/javascript-algorithms-and-data-structures)
+
+[FreeCodeCamp – Responsive Web Design – 2019](https://www.freecodecamp.org/certification/yaroslavsouchkov/responsive-web-design)
 
 
 ## :toolbox: Skills and Experience
-
 
 [![HTML5](https://img.shields.io/badge/-HTML5-ff69b4?style=for-the-badge)](https://github.com/encrypted-fox)
 [![CSS3](https://img.shields.io/badge/-CSS3-ff69b4?style=for-the-badge)](https://github.com/encrypted-fox)
@@ -56,6 +89,7 @@ Hello, my name is Yaroslav and I am web-developer. Have a closer look of who am 
 [![SEO](https://img.shields.io/badge/-seo-green?style=for-the-badge)](https://github.com/encrypted-fox)
 [![SMM](https://img.shields.io/badge/-smm-green?style=for-the-badge)](https://github.com/encrypted-fox)
 
+
 ## :books: Learning 
 
 [![Learning: React Native](https://img.shields.io/badge/learning-react%20native-grey?style=for-the-badge)](https://github.com/encrypted-fox)
@@ -65,8 +99,10 @@ Hello, my name is Yaroslav and I am web-developer. Have a closer look of who am 
 [![Learning: Kotlin](https://img.shields.io/badge/learning-kotlin-grey?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Learning: WordPress](https://img.shields.io/badge/learning-wordpress-grey?style=for-the-badge)](https://github.com/encrypted-fox)
 
+
 ## :construction: I have some projects under HEAVY CONSTRUCTION :construction:
 
-[![Students Performance Monitoring](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=students_performance_monitoring&theme=synthwave)](https://github.com/encrypted-fox/students_performance_monitoring)
-[![ToDo App React Redux Typescript](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=todo_app_react_redux_typescript&theme=synthwave)](https://github.com/encrypted-fox/todo_app_react_redux_typescript)
-[![Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=algorithms&theme=synthwave)](https://github.com/encrypted-fox/algorithms)
+[![Students Performance Monitoring](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=students_performance_monitoring&theme=dark
+)](https://github.com/encrypted-fox/students_performance_monitoring)
+[![ToDo App React Redux Typescript](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=todo_app_react_redux_typescript&theme=dark)](https://github.com/encrypted-fox/todo_app_react_redux_typescript)
+[![Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=algorithms&theme=dark)](https://github.com/encrypted-fox/algorithms)
