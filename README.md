@@ -105,4 +105,4 @@ Feel free to ask for further information, will be glad to answer!
 [![Students Performance Monitoring](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=students_performance_monitoring&theme=dark
 )](https://github.com/encrypted-fox/students_performance_monitoring)
 [![ToDo App React Redux Typescript](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=todo_app_react_redux_typescript&theme=dark)](https://github.com/encrypted-fox/todo_app_react_redux_typescript)
-[![Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=algorithms&theme=dark)](https://github.com/encrypted-fox/algorithms)
+[![Algorithms and Data Structures](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=algorithms-and-data-structures&theme=dark)](https://github.com/encrypted-fox/algorithms-and-data-structures)
