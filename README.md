@@ -2,13 +2,13 @@
 
 Hello, my name is Yaroslav and I am web-developer. Have a closer look of who am I.
 
-[![Work Status](https://img.shields.io/badge/status-accepting%20job%20offers-brightgreen?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Work Status](https://img.shields.io/badge/status-working-brightred?style=for-the-badge)](https://github.com/encrypted-fox)
 
 [![Encrypted-Fox github stats](https://github-readme-stats.vercel.app/api?username=encrypted-fox&theme=dark)](https://github.com/encrypted-fox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encrypted-fox&theme=dark)](https://github.com/encrypted-fox)
 
-I know English, German and Russian. I am final year student, reading technical literature. Currently ready to work remotely.
+I know English, German and Russian. I am bachelor of information technologies, reading technical literature. Currently ready to work remotely.
 
 I can successfully work in multitask regime with big amount of data, can find quality solution for difficult tasks.
 
@@ -63,6 +63,10 @@ Feel free to ask for further information, will be glad to answer!
 [![JavaScript](https://img.shields.io/badge/-javascript-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
 [![React](https://img.shields.io/badge/-react-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Redux](https://img.shields.io/badge/-redux-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Next](https://img.shields.io/badge/-react-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Vue](https://img.shields.io/badge/-redux-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Vuex](https://img.shields.io/badge/-redux-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Nuxt](https://img.shields.io/badge/-redux-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
 [![JQuery](https://img.shields.io/badge/-jquery-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
 
 [![SQL](https://img.shields.io/badge/-sql-coral?style=for-the-badge)](https://github.com/encrypted-fox)
@@ -76,13 +80,15 @@ Feel free to ask for further information, will be glad to answer!
 [![Django](https://img.shields.io/badge/-django-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Node.js](https://img.shields.io/badge/-node.js-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Express](https://img.shields.io/badge/-express-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
+[![PHP](https://img.shields.io/badge/-express-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
+[![WordPress](https://img.shields.io/badge/-express-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
 [![REST](https://img.shields.io/badge/-rest-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
 
 [![UX](https://img.shields.io/badge/-ux-lightcoral?style=for-the-badge)](https://github.com/encrypted-fox)
 [![UI](https://img.shields.io/badge/-ui-lightcoral?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Figma, Adobe Photoshop, Adobe Illustrator, Zeplin, etc.](https://img.shields.io/badge/-figma,%20adobe%20photoshop,%20adobe%20illustrator,%20Zeplin,%20etc.-lightcoral?style=for-the-badge)](https://github.com/encrypted-fox)
 
-[![GIT](https://img.shields.io/badge/-git-black?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Git](https://img.shields.io/badge/-git-black?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Jira](https://img.shields.io/badge/-jira-black?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Confluence](https://img.shields.io/badge/-confluence-black?style=for-the-badge)](https://github.com/encrypted-fox)
 
@@ -93,11 +99,8 @@ Feel free to ask for further information, will be glad to answer!
 ## :books: Learning 
 
 [![Learning: React Native](https://img.shields.io/badge/learning-react%20native-grey?style=for-the-badge)](https://github.com/encrypted-fox)
-[![Learning: Vue](https://img.shields.io/badge/learning-vue-grey?style=for-the-badge)](https://github.com/encrypted-fox)
-[![Learning: PHP](https://img.shields.io/badge/learning-php-grey?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Learning: Java](https://img.shields.io/badge/learning-java-grey?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Learning: Kotlin](https://img.shields.io/badge/learning-kotlin-grey?style=for-the-badge)](https://github.com/encrypted-fox)
-[![Learning: WordPress](https://img.shields.io/badge/learning-wordpress-grey?style=for-the-badge)](https://github.com/encrypted-fox)
 
 
 ## :construction: I have some projects under HEAVY CONSTRUCTION :construction:
