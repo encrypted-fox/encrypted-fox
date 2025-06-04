@@ -66,6 +66,7 @@ Feel free to ask for further information, will be glad to answer!
 [![Responsive layout](https://img.shields.io/badge/-responsive%20layout-informational?style=for-the-badge)](https://github.com/encrypted-fox)
 
 [![JavaScript](https://img.shields.io/badge/-javascript-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
+[![TypeScript](https://img.shields.io/badge/-javascript-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
 [![React](https://img.shields.io/badge/-react-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Redux](https://img.shields.io/badge/-redux-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Next](https://img.shields.io/badge/-next-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
