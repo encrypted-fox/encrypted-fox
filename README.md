@@ -4,8 +4,6 @@ Hello, my name is Yaroslav and I am web-developer. Have a closer look of who am 
 
 [![Work Status](https://img.shields.io/badge/status-working-brightred?style=for-the-badge)](https://github.com/encrypted-fox)
 
-[![Encrypted-Fox github stats](https://github-readme-stats.vercel.app/api?username=encrypted-fox&theme=dark)](https://github.com/encrypted-fox)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encrypted-fox&theme=dark)](https://github.com/encrypted-fox)
 
 I know English, German and Russian. I am bachelor of information technologies, reading technical literature. Currently ready to work remotely.
@@ -14,14 +12,16 @@ I can successfully work in multitask regime with big amount of data, can find qu
 
 I use specialized tools to organize my development process and task tracking, write quality documentation and perform work in time.
 
-Also can make prototypes, 'am good at HTML, CSS and JavaScript, can build android apps and dynamic adaptive cross-browser web-apps, using Angular, React, Vue (React is preffered) as frontend and Python, PHP or Node as backend.
+Also can make prototypes, 'am good at HTML, CSS and JavaScript (+TypeScript), can build android apps and dynamic adaptive cross-browser web-apps, using Vue 3 (Composition or Options), Nuxt 3 (or React) as frontend and Python or Node (Nest) as backend.
 
-I am familiar with wordpress, can perform SEO- and Usability-audit and can make any site SEO-friendly.
+I have experience with such concepts as:
+* microfrontends (with single-spa or module federation),
+* microservices,
+* data visualisation libraries (like d3, chart.js etc.),
+* team leadership and mentoring,
+* B2B, B2C development, including e-commerce, SaaS, PaaS and so on.
 
 Feel free to ask for further information, will be glad to answer!
-
-
-
 
 ## :scroll: Education
 
@@ -50,15 +50,20 @@ Feel free to ask for further information, will be glad to answer!
 [![CSS-Animations](https://img.shields.io/badge/-CSS3--animations-ff69b4?style=for-the-badge)](https://github.com/encrypted-fox)
 [![LESS](https://img.shields.io/badge/-less-ff69b4?style=for-the-badge)](https://github.com/encrypted-fox)
 [![SASS](https://img.shields.io/badge/-sass-ff69b4?style=for-the-badge)](https://github.com/encrypted-fox)
+[![SCSS](https://img.shields.io/badge/-sass-ff69b4?style=for-the-badge)](https://github.com/encrypted-fox)
 [![PostCSS](https://img.shields.io/badge/-postcss-ff69b4?style=for-the-badge)](https://github.com/encrypted-fox)
 
-[![Bootstrap, Foundtation, Material UI etc.](https://img.shields.io/badge/-bootstrap,%20foundation,%20material%20ui,%20etc.-brightgreen?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Bootstrap](https://img.shields.io/badge/-bootstrap,%20foundation,%20material%20ui,%20etc.-brightgreen?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Quasar](https://img.shields.io/badge/-quasar,%20foundation,%20material%20ui,%20etc.-brightgreen?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Vuetify](https://img.shields.io/badge/-vuetify,%20foundation,%20material%20ui,%20etc.-brightgreen?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Foundtation](https://img.shields.io/badge/-bootstrap,%20foundation,%20material%20ui,%20etc.-brightgreen?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Material UI](https://img.shields.io/badge/-material_ui,%20foundation,%20material%20ui,%20etc.-brightgreen?style=for-the-badge)](https://github.com/encrypted-fox)
+[![TailwindCSS](https://img.shields.io/badge/-tailwindCSS,%20foundation,%20material%20ui,%20etc.-brightgreen?style=for-the-badge)](https://github.com/encrypted-fox)
+[![UnoCSS](https://img.shields.io/badge/-unoCSS,%20foundation,%20material%20ui,%20etc.-brightgreen?style=for-the-badge)](https://github.com/encrypted-fox)
 
 [![Cross-browser layout](https://img.shields.io/badge/-cross--browser%20layout-informational?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Adaptive layout](https://img.shields.io/badge/-adaptive%20layout-informational?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Responsive layout](https://img.shields.io/badge/-responsive%20layout-informational?style=for-the-badge)](https://github.com/encrypted-fox)
-
-[![Wix, Tilda, etc](https://img.shields.io/badge/-wix,%20tilda,%20etc.-lightgrey?style=for-the-badge)](https://github.com/encrypted-fox)
 
 [![JavaScript](https://img.shields.io/badge/-javascript-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
 [![React](https://img.shields.io/badge/-react-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
@@ -66,27 +71,20 @@ Feel free to ask for further information, will be glad to answer!
 [![Next](https://img.shields.io/badge/-next-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Vue](https://img.shields.io/badge/-vue-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Vuex](https://img.shields.io/badge/-vuex-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Pinia](https://img.shields.io/badge/-pinia-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Nuxt](https://img.shields.io/badge/-nuxt-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
-[![JQuery](https://img.shields.io/badge/-jquery-ffcc00?style=for-the-badge)](https://github.com/encrypted-fox)
 
-[![SQL](https://img.shields.io/badge/-sql-coral?style=for-the-badge)](https://github.com/encrypted-fox)
 [![MySQL](https://img.shields.io/badge/-mysql-coral?style=for-the-badge)](https://github.com/encrypted-fox)
 [![PostgreSQL](https://img.shields.io/badge/-postgresql-coral?style=for-the-badge)](https://github.com/encrypted-fox)
-[![SQLite](https://img.shields.io/badge/-sqlite-coral?style=for-the-badge)](https://github.com/encrypted-fox)
-[![MS SQL](https://img.shields.io/badge/-ms%20sql-coral?style=for-the-badge)](https://github.com/encrypted-fox)
-[![Oracle](https://img.shields.io/badge/-oracle-coral?style=for-the-badge)](https://github.com/encrypted-fox)
 
 [![Python](https://img.shields.io/badge/-python-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
-[![Django](https://img.shields.io/badge/-django-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Flask](https://img.shields.io/badge/-django-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Node.js](https://img.shields.io/badge/-node.js-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
-[![Express](https://img.shields.io/badge/-express-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
-[![PHP](https://img.shields.io/badge/-php-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
-[![WordPress](https://img.shields.io/badge/-wordpress-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
-[![REST](https://img.shields.io/badge/-rest-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Nest.js](https://img.shields.io/badge/-nest.js-lightblue?style=for-the-badge)](https://github.com/encrypted-fox)
 
 [![UX](https://img.shields.io/badge/-ux-lightcoral?style=for-the-badge)](https://github.com/encrypted-fox)
 [![UI](https://img.shields.io/badge/-ui-lightcoral?style=for-the-badge)](https://github.com/encrypted-fox)
-[![Figma, Adobe Photoshop, Adobe Illustrator, Zeplin, etc.](https://img.shields.io/badge/-figma,%20adobe%20photoshop,%20adobe%20illustrator,%20Zeplin,%20etc.-lightcoral?style=for-the-badge)](https://github.com/encrypted-fox)
+[![Figma](https://img.shields.io/badge/-figma-lightcoral?style=for-the-badge)](https://github.com/encrypted-fox)
 
 [![Git](https://img.shields.io/badge/-git-black?style=for-the-badge)](https://github.com/encrypted-fox)
 [![Jira](https://img.shields.io/badge/-jira-black?style=for-the-badge)](https://github.com/encrypted-fox)
@@ -94,18 +92,3 @@ Feel free to ask for further information, will be glad to answer!
 
 [![SEO](https://img.shields.io/badge/-seo-green?style=for-the-badge)](https://github.com/encrypted-fox)
 [![SMM](https://img.shields.io/badge/-smm-green?style=for-the-badge)](https://github.com/encrypted-fox)
-
-
-## :books: Learning 
-
-[![Learning: React Native](https://img.shields.io/badge/learning-react%20native-grey?style=for-the-badge)](https://github.com/encrypted-fox)
-[![Learning: Java](https://img.shields.io/badge/learning-java-grey?style=for-the-badge)](https://github.com/encrypted-fox)
-[![Learning: Kotlin](https://img.shields.io/badge/learning-kotlin-grey?style=for-the-badge)](https://github.com/encrypted-fox)
-
-
-## :construction: I have some projects under HEAVY CONSTRUCTION :construction:
-
-[![Students Performance Monitoring](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=students_performance_monitoring&theme=dark
-)](https://github.com/encrypted-fox/students_performance_monitoring)
-[![ToDo App React Redux Typescript](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=todo_app_react_redux_typescript&theme=dark)](https://github.com/encrypted-fox/todo_app_react_redux_typescript)
-[![Algorithms and Data Structures](https://github-readme-stats.vercel.app/api/pin/?username=encrypted-fox&repo=algorithms-and-data-structures&theme=dark)](https://github.com/encrypted-fox/algorithms-and-data-structures)
